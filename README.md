@@ -1,5 +1,3 @@
 <h1 align="center">Hi 👋, I'm Ly</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vanly672&label=Profile%20views&color=0e75b6&style=flat" alt="vanly672" /> </p>
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1444445560&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/producertvt" title="Producer TVT" target="_blank" style="color: #cccccc; text-decoration: none;">Producer TVT</a> · <a href="https://soundcloud.com/producertvt/vol-1-2023-t-v-t-tvt-remix" title="Vol.1 - 2023 Tê Vờ Tờ - TVT REMIX" target="_blank" style="color: #cccccc; text-decoration: none;">Vol.1 - 2023 Tê Vờ Tờ - TVT REMIX</a></div>
